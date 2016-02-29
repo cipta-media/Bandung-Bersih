@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.panelic.kacau.DashboardLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_weight="1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fffbdd">
+
+    <!--  Tombol Maps -->
+    <Button
+        android:id="@+id/btn_maps"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/btn_maps"
+        android:textColor="#4b4c4e"
+        android:text="@string/btn_maps" />
+
+    <!--  Tombol List Lokasi -->
+    <Button
+        android:id="@+id/btn_list_lokasi"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/btn_list_lokasi"
+        android:textColor="#4b4c4e"
+        android:text="@string/btn_list_lokasi" />
+
+    <!--  Tombol Edukasi -->
+    <Button
+        android:id="@+id/btn_edukasi"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/btn_edukasi"
+        android:textColor="#4b4c4e"
+        android:text="@string/btn_edukasi" />
+
+    <!--  Tombol Artikel -->
+    <Button
+        android:id="@+id/btn_artikel"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/btn_artikel"
+        android:textColor="#4b4c4e"
+        android:text="@string/btn_artikel" />
+
+    <!--  Tombol Tips & Trik -->
+    <Button
+        android:id="@+id/btn_tips"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/btn_tips"
+        android:textColor="#4b4c4e"
+        android:text="@string/btn_tips" />
+
+    <!--  Tombol Tentang -->
+    <Button
+        android:id="@+id/btn_tentang"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/btn_tentang"
+        android:textColor="#4b4c4e"
+        android:text="@string/btn_tentang" />
+</com.panelic.kacau.DashboardLayout>

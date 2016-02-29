@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Bandung Bersih</string>
+    <string name="halaman_acara">Halaman Acara</string>
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="loading">Sedang Mencari&#8230;</string>
+    <string name="title">Title goes here!</string>
+    <string name="date">Date goes here!</string>
+    <string name="desc">Description goes here!</string>
+    <string name="linkLabel">Link to web: </string>
+    <string name="linkText">Link goes here!</string>
+
+    <!--  Penamaan button fragment layout -->
+    <string name="btn_maps">Peta Lokasi</string>
+    <string name="btn_list_lokasi">List Lokasi</string>
+    <string name="btn_edukasi">Edukasi</string>
+    <string name="btn_artikel">Artikel</string>
+    <string name="btn_tips">Tips Trik</string>
+    <string name="btn_tentang">Tentang Apps</string>
+
+    <!--  Penamaan konten tips trik -->
+    <string name="video_list_title">Title</string>
+
+    </resources>
